@@ -17,7 +17,10 @@ The idea behind this project is to **only** use visual features! There exists ce
 
 The visual input will be fed through certain models to extract **image embeddings**. The two types planned to be used is a **Convolutional Neural Network (CNN)** and a **Vision Transformer (ViT)**. 
 
-### Dataset
+### Environment
+We will be using the `gym` environment to train the agent!
+
+#### Dataset
 Level Distribution is uneven!
 
 ### Learning
