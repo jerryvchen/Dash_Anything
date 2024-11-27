@@ -3,3 +3,5 @@ Need OBS -> have virtual camera for scene
 
 cv2.VideoCapture(1) will find virtual cam
 
+multiple threads w/ GD and OBS in it
+OR OBS captuer multiple windows, each capturing 1/nth of screen
